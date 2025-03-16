@@ -1,0 +1,33 @@
+  Revised: Monday, December 09, 2024
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 9,2024      22:52:59	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	D6	BZX84-C5V1
+2	1	J1	CON1
+3	1	P1	10k
+4	1	QESR	QBC846B
+5	1	QESR2	QMJD31C
+6	5	Q2,Q3,Q5,Q24,QSARCINA	QBC817-25
+7	5	Q1,Q4,Q19,Q22,Q23	QBC807-25
+8	1	RC1	1
+9	3	RC2,RC3,RC4	0.47
+10	7	RLOAD1,RLOAD2,RLOAD3,	100
+		RLOAD4,R10,R11,RLOAD
+11	1	RLOAD5	51
+12	3	R2,R8,R30	220
+13	2	R6,R12	2.2k
+14	1	R9	4.7k
+15	4	R27,R28,R29,R37	1k
+16	1	R34	2.7K
+17	1	R38	150
+18	2	VO,VIN	CON2
