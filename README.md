@@ -16,3 +16,6 @@ Fisierul LAYOUT.brd contine realizarea in tehnologie PCB a schemei circuitului p
 Dimensiunile PCB: 40mm x 40mm;
 Material FR4, dublu strat, grosimea foliei de cupru 18um, grosimea placii 1.5mm;
 
+Fisierul STAB_TST_11.BOM contine BOM-ul (Bill of Materials) aferent schemei circuitului;
+
+Fisierul Documentatie ProiectCEF ERS.pdf contine documentatia aferenta schemei circuitului in format PDF, realizata conform cerintelor profesorilor coordonatori de la facultarea la care studiez la momentul redactarii acestei descrieri (2025);
